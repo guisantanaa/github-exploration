@@ -1,6 +1,6 @@
 <h2>Apresentação do Projeto</h2>
 
-<img src="../assets/Gitlogo.png" alt="imagem do proejeto"/>
+<img src="./src/assets/Gitlogo.png" alt="imagem do proejeto"/>
 
 <h2>Descrição</h2>
 
