@@ -27,7 +27,7 @@ ex: facebook/react</p>
 ```bash
 
 # Clone este projeto
-$ git clone
+$ git clone https://github.com/guisantanaa/github-exploration
 
 # Entre na pasta github-exploration
 $ cd github-exploration
