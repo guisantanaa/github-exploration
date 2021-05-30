@@ -4,7 +4,7 @@
 
 <h2>Descrição</h2>
 
-<p>Esse projeto tem como objetivo buscar por repsitórios na api do github na área de busca, basta simplemente digitar  o nome do criador, por uma barra '/' e o repósitorio 
+<p>Esse projeto tem como objetivo buscar por repositórios na api do github na área de busca, basta simplesmente digitar o nome do criador, por uma barra '/' e o repósitorio 
 ex: facebook/react</p>
 
 ## :rocket: Tecnologias
