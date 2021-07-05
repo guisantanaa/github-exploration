@@ -47,8 +47,8 @@ $ yarn start
 
 <p>Gravei um video explicando toda a aplicação para ver basta clicar nesse link</p>
 
-<a href="https://youtu.be/TCb-H4CYzAs" target="_blank">Link do video</a>
+<a href="https://youtu.be/TCb-H4CYzAs" target="_blank">>Link do video</a>
 
 ## Link de deploy da aplicação
 
-<a href="https://github-exploration.vercel.app/" target="_blank">Link de deploy</a>
+<a href="https://github-exploration.vercel.app/"  target="_blank">>Link de deploy</a>
